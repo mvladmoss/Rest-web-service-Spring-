@@ -1,0 +1,10 @@
+.idea/
+target/
+repository/target
+model/target
+crudService/target
+crudService/crudService.iml
+web/target
+web/web.iml
+model/model.iml
+repository/repository.iml
